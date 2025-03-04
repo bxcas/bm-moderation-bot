@@ -134,3 +134,43 @@ This section defines the `Rust servers` managed by the bot.
   ]
 }
 ```
+---
+
+# 🚀 Installation Guide - BattleMetrics Moderation Bot
+
+## 📌 Requirements
+
+To run the bot, you need a machine with:  
+- **A server or hosting environment** (e.g., a VPS, dedicated machine, or a Pterodactyl Egg).  
+- **Node.js installed** (recommended: latest LTS version).  
+
+---
+
+## 📌 Installation Steps
+
+1️⃣ Ensure **Node.js** is installed on your machine.  
+2️⃣ Place the bot files in your preferred directory.  
+3️⃣ Open a terminal or command prompt in the bot’s directory.  
+4️⃣ Run the following command to install dependencies:  
+
+```sh
+npm install
+```
+5️⃣ Start the bot by running:
+```sh
+node .
+```
+
+The bot will now run without any issues.
+
+--- 
+
+## 📌 Logs
+
+A Logs folder will be created automatically.
+All bot activity and errors will be logged inside this folder.
+
+## Support
+
+If you need assistance, contact `bxcas` on Discord.
+
